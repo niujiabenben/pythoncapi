@@ -1,0 +1,15 @@
+---
+# clang-format version: 6.0.0
+Language: Cpp
+BasedOnStyle: Google
+AlignAfterOpenBracket: Align
+AllowShortBlocksOnASingleLine: true
+AllowAllParametersOfDeclarationOnNextLine: false
+BinPackParameters: false
+AllowShortCaseLabelsOnASingleLine: true
+AlwaysBreakBeforeMultilineStrings: false
+KeepEmptyLinesAtTheStartOfBlocks: true
+DerivePointerAlignment: false
+SpaceAfterCStyleCast: true
+Standard: Cpp11
+
